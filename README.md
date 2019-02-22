@@ -30,6 +30,6 @@
 > > * If you want to make Text as Link you have do as givien in example ( Don't Use Space in this help )
 > > > ```
 > > > Example : 
-> > > [GitHub](Link Address)
-> > > [Facebook](Link Address)
+> > > [GitHub](Link_Address)
+> > > [Facebook](Link _Address)
 > > > ```
