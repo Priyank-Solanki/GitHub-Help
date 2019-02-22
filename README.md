@@ -1,6 +1,6 @@
 # GitHub Help
 > ## How to create README.md file
-> > If you want to use heading tags you have to use '#'.
+> > * If you want to use heading tags you have to use '#'.
 > > ```
 > > <h1> '#' </h1>
 > > <h2> '##' </h2>
