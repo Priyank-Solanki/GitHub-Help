@@ -26,7 +26,7 @@
 > > > * Main Point 3
 > > > * Main Point 4
 > > > ```
-> > * If you want to make Text as Link you have to use " [ Text ]( Link )"
+> > * If you want to make Text as Link you have to use '['text']('link')'
 > > > ```
 > > > Example : 
 > > > [GitHub](Link Address)
