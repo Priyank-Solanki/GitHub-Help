@@ -1,5 +1,6 @@
 # GitHub Help
 > ## How to create README.md file
+> ## When you use this help please give only one white space or space between text and special character
 > > * If you want to use heading tags you have to use '#'.
 > > > ```
 > > > Example : 
@@ -26,7 +27,7 @@
 > > > * Main Point 3
 > > > * Main Point 4
 > > > ```
-> > * If you want to make Text as Link you have do as givien in example
+> > * If you want to make Text as Link you have do as givien in example ( Don't Use Space in this help )
 > > > ```
 > > > Example : 
 > > > [GitHub](Link Address)
