@@ -21,8 +21,8 @@
 > > * If you want to make list you have to use '*'
 > > > ```
 > > > Example : 
-> > > * Main Point
-> > > > * Sub Point 1
-> > > > * Sub Point 2
-> > > > * Sub Point 3
+> > > * Main Point 1
+> > > * Main Point 2
+> > > * Main Point 3
+> > > * Main Point 4
 > > > ```
