@@ -14,5 +14,8 @@
 > > > ```
 > > > Example : 
 > > > * Main List
+> > > > * Sub List 1
+> > > > * Sub List 2
+> > > > * Sub List 3
 > > > ```
 > > * If you want to make list you have to use '*'
