@@ -1,6 +1,6 @@
 # GitHub Help
 > ## How to create README.md file
-> ## When you use this help please give only one white space or space between text and special character
+> ### When you use this help please give only one white space or space between text and special character
 > > * If you want to use heading tags you have to use '#'.
 > > > ```
 > > > Example : 
