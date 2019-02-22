@@ -10,3 +10,4 @@
 > > > <h6> '######' </h6>
 > > > ```
 > > * If you want to do nested point you have to use '>'
+> > * If you want to make list you have to use '*'
