@@ -36,5 +36,5 @@
 > > * If you want to make text like `This Demo` you have use to single ` sign
 > > > ```
 > > > Example : 
-> > > this is `demo text`
+> > > This is `demo text`
 > > > ```
