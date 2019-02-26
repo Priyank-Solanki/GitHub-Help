@@ -38,3 +38,8 @@
 > > > Example : 
 > > > This is `demo text`
 > > > ```
+> > * If you want to show keyboard key than use <kbd> tag
+> > > ```
+> > > Example :
+> > > Open Task Mananger <kbd> ctrl </kbd> + <kbd> shift </kbd> + <kbd> esc </kbd>
+> > > ```
