@@ -43,4 +43,6 @@
 > > > Example :
 > > > Open Task Mananger : <kbd> ctrl </kbd> + <kbd> shift </kbd> + <kbd> esc </kbd>
 > > > 
-> > > Output is : Open Task Manager : ``` <kbd> ctrl </kbd> + <kbd> shift </kbd> + <kbd> esc </kbd>
+> > > Output is : Open Task Manager : 
+> > > ```
+> > > <kbd> ctrl </kbd> + <kbd> shift </kbd> + <kbd> esc </kbd>
