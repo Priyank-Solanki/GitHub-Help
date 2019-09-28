@@ -45,3 +45,11 @@
 > > > ```
 > > > Output :
 > > > open Task Manager : <kbd> ctrl </kbd> + <kbd> shift </kbd> + <kbd> esc </kbd>
+> > * If you want to make Text with checkbox
+> > > ```
+> > > [x] This is checked
+> > > [ ] This is unchecked
+> > > ```
+> > > Output :
+> > > [x] This is checked
+> > > [ ] This is unchecked
