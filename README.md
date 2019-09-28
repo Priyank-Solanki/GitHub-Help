@@ -58,3 +58,9 @@
 > > > ```
 > > > Output : 
 > > > ~~Strikethrough~~
+> > * If you want add Image (Don't use space)
+> > > ```
+> > > ![Alt text](/path/to/image.jpg)
+> > > ```
+> > > Output :
+> > > ![Google](https://sites.google.com/site/matematica2palta/_/rsrc/1472780384038/config/google_.jpg)
