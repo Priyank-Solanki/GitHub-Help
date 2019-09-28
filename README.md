@@ -64,3 +64,7 @@
 > > > ```
 > > > Output :
 > > > ![Google](https://sites.google.com/site/matematica2palta/_/rsrc/1472780384038/config/google_.jpg)
+- If you want make To-Do List Then Use ` [x] for checked or [ ] for unchecked ` ( It will not work into nested list ) 
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
