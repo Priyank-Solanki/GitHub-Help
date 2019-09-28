@@ -52,3 +52,9 @@
 > > > Output :
 > > > Title
 > > > ==================
+> > * If you want to make strikethrough
+> > > ```
+> > > ~~Strikethrough~~
+> > > ```
+> > > Output : 
+> > > ~~Strikethrough~~
