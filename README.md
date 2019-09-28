@@ -64,7 +64,3 @@
 > > > ```
 > > > Output :
 > > > ![Google](https://sites.google.com/site/matematica2palta/_/rsrc/1472780384038/config/google_.jpg)
-> > > | Day     | Meal    | Price |
-> > > | --------|---------|-------|
-> > > | Monday  | pasta   | $6    |
-> > > | Tuesday | chicken | $8    |
