@@ -65,6 +65,12 @@ GitHub Help
 > > > ```
 > > > Output :
 > > > ![Google](https://sites.google.com/site/matematica2palta/_/rsrc/1472780384038/config/google_.jpg)
+> > * If you want to make badge than refer below
+> > > ```
+> > > [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+> > > ```
+> > > Output : 
+> > > [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 - If you want make To-Do List Then Use ` [x] for checked or [ ] for unchecked ` ( It will not work into nested list ) 
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
